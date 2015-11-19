@@ -42,3 +42,5 @@ hi def link antlrLabel Define
 hi def link antlrAction PreCondit
 
 let b:current_syntax = "antlr4"
+
+highlight Character ctermfg=Magenta guifg=#606060
